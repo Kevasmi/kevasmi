@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevasmi&theme=onedark)](https://github.com/kevasmi/github-profile-trophy)
