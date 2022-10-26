@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kevasmi&theme=onedark)](https://github.com/kevasmi/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevasmi)](https://github.com/kevasmi/github-readme-stats)
