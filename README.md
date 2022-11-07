@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevasmi&theme=onedark)](https://github.com/kevasmi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevasmi&theme=onedark&title=Commits,Repositories)](https://github.com/kevasmi/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevasmi&theme=dark)](https://github.com/kevasmi/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevasmi&hide=prs,contribs,issues&theme=dark)](https://github.com/kevasmi/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kevasmi&theme=react-dark)](https://github.com/kevasmi/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kevasmi&theme=react-dark)](https://github.com/kevasmi/github-readme-activity-graph) 
+
+-->
