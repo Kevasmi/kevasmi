@@ -30,6 +30,6 @@ I previously had completed college with a business degree, hoping to have the op
 
 <!-- 
 -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kevasmi&theme=react-dark)](https://github.com/kevasmi/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kevasmi&theme=react-dark)](https://github.com/kevasmi/github-readme-activity-graph)
 
 
